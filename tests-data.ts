@@ -25,5 +25,3 @@ export const SALES_PAGE_TEXT_04 =
   "Poptávka po automatizačních testerech je v dnešní době obrovská. A není divu. Automatizace je dnes hlavním pohonem ekonomiky celého světa a stejně tomu tak je i v IT a vývoji softwaru. Díky tomuto kurzu se tuto dovednost naučíte. Celý kurz je postaven na nejmodernějšíhch nástrojích a vyučovacích metodách. Absolvováním kurzu získáte praktické zkušenosti s automatizací testů na reálných příkladech, což vás připraví na výzvy v praxi.";
 
 export const MIN_DICTIONARY_KEYS_COUNT = 47;
-
-export const;
